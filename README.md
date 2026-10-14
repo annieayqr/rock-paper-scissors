@@ -1,4 +1,4 @@
-![C++](https://img.shields.io/badge/C17-blue.svg)
+![C](https://img.shields.io/badge/C17-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow.svg)
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey.svg)
