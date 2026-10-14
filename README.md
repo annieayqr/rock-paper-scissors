@@ -25,7 +25,7 @@ A simple Rock Paper Scissors game written in C as part of my journey learning th
 
 You chose: Paper
 Computer chose: Rock
-You win!```
+You win! ```
 
 ## License
 MIT
