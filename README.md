@@ -7,14 +7,17 @@
 
 A simple Rock Paper Scissors game written in C as part of my journey learning the C programming language.
 
+
 ## Features
 - Player vs computer gameplay
 - Random computer choice 
 - Input validation
 
+
 ## How to Run
 - Compile: `gcc main.c -o rps`
 - Run: `./rps`
+
 
 ## Example
 ```0 - Rock
@@ -27,6 +30,7 @@ You chose: Paper
 Computer chose: Rock
 You win! 
 ```
+
 
 ## License
 MIT
